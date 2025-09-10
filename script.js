@@ -1,16 +1,16 @@
 const texts = [
-  "Sayang, Mungkin kamu udah bosen sama lagu ini...",
-  "Tapi asalkan kamu tau lagu ini mengibaratkan kamu...",
-  "Maaffin soal tadinyaaa...",
-  "Akuu bener-bener nyesel jadi tolong maafin aku...",
-  "Jangan sampe pisah ya sayang...",
-  "Ingett kita masih ada tujuan yang sama...",
-  "Yaitu tinggal diatap yang sama...",
-  "Maafin ya sayang...",
-  "Aku pengen tiap hari bisa bikin kamu senyum lagi, bukan nangis lagi...",
-  "Aku Janji gabakal ngecewain kamu lagi...",
-  "I LOVE U MUTIARA PUSPITA SARI...❤️❤️❤️❤️",
-  "Jangan tinggalin aku ya sayang...🥺❤️"
+  "Sayang, Mungkin kamu udah bosen sama lagu ini",
+  "Tapi asalkan kamu tau lagu ini mengibaratkan kamu",
+  "Maaffin soal tadinyaaa",
+  "Akuu bener-bener nyesel jadi tolong maafin aku",
+  "Jangan sampe pisah ya sayang",
+  "Ingett kita masih ada tujuan yang sama",
+  "Yaitu tinggal diatap yang sama",
+  "Maafin ya sayang",
+  "Aku pengen tiap hari bisa bikin kamu senyum lagi, bukan nangis lagi",
+  "Aku Janji gabakal ngecewain kamu lagi",
+  "I LOVE U MUTIARA PUSPITA SARI❤️",
+  "Jangan tinggalin aku ya sayang🥺❤️"
 ];
 
 const textElement = document.getElementById("text");
